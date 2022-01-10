@@ -5,7 +5,7 @@
 > 本文是翻译介绍 JavaScript 的工作原理的，该系列原文还在更新中，原文见[这里](https://blog.sessionstack.com/tagged/tutorial)。
 
 // TODO List：
-列出需要翻译的文章目录
+列出需要翻译的文章目录：[全文地址](https://blog.sessionstack.com/how-javascript-works/home)
 
 ## 目录结构
 
