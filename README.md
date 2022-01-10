@@ -4,6 +4,9 @@
 >
 > 本文是翻译介绍 JavaScript 的工作原理的，该系列原文还在更新中，原文见[这里](https://blog.sessionstack.com/tagged/tutorial)。
 
+// TODO List：
+列出需要翻译的文章目录
+
 ## 目录结构
 
 - 第一章：[语言引擎，运行时和调用栈概述](overview.md)
